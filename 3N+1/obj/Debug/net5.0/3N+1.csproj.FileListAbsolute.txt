@@ -1,0 +1,16 @@
+C:\Users\fstel\source\repos\3N+1\3N+1\bin\Debug\net5.0\3N+1.exe
+C:\Users\fstel\source\repos\3N+1\3N+1\bin\Debug\net5.0\3N+1.deps.json
+C:\Users\fstel\source\repos\3N+1\3N+1\bin\Debug\net5.0\3N+1.runtimeconfig.json
+C:\Users\fstel\source\repos\3N+1\3N+1\bin\Debug\net5.0\3N+1.runtimeconfig.dev.json
+C:\Users\fstel\source\repos\3N+1\3N+1\bin\Debug\net5.0\3N+1.dll
+C:\Users\fstel\source\repos\3N+1\3N+1\bin\Debug\net5.0\ref\3N+1.dll
+C:\Users\fstel\source\repos\3N+1\3N+1\bin\Debug\net5.0\3N+1.pdb
+C:\Users\fstel\source\repos\3N+1\3N+1\obj\Debug\net5.0\3N+1.csproj.AssemblyReference.cache
+C:\Users\fstel\source\repos\3N+1\3N+1\obj\Debug\net5.0\3N+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fstel\source\repos\3N+1\3N+1\obj\Debug\net5.0\3N+1.AssemblyInfoInputs.cache
+C:\Users\fstel\source\repos\3N+1\3N+1\obj\Debug\net5.0\3N+1.AssemblyInfo.cs
+C:\Users\fstel\source\repos\3N+1\3N+1\obj\Debug\net5.0\3N+1.csproj.CoreCompileInputs.cache
+C:\Users\fstel\source\repos\3N+1\3N+1\obj\Debug\net5.0\3N+1.dll
+C:\Users\fstel\source\repos\3N+1\3N+1\obj\Debug\net5.0\ref\3N+1.dll
+C:\Users\fstel\source\repos\3N+1\3N+1\obj\Debug\net5.0\3N+1.pdb
+C:\Users\fstel\source\repos\3N+1\3N+1\obj\Debug\net5.0\3N+1.genruntimeconfig.cache
